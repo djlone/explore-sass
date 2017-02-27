@@ -21,11 +21,12 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 
 
 1. Make sure you have these installed
-	- [node.js](http://nodejs.org/)
-  - [Ruby] (http://railsinstaller.org/en)
-	- [Grunt.JS](http://https://gruntjs.com/)
-	- [SASS](http://http://sass-lang.com/)
-  - [AutoPrefixer] (https://github.com/postcss/autoprefixer)
+
+- [node.js](http://nodejs.org/)
+- [Ruby] (http://railsinstaller.org/en)
+- [Grunt.JS](http://https://gruntjs.com/)
+- [SASS](http://http://sass-lang.com/)
+- [AutoPrefixer] (https://github.com/postcss/autoprefixer)
   
 
 
