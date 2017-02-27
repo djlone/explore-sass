@@ -1,0 +1,29 @@
+{
+  "name": "exploresass",
+  "version": "1.0.0",
+  "description": "A sass based underscore theme",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djlone/explore.git"
+  },
+  "keywords": [
+    "sass",
+    "grunt",
+    "autoprefixer",
+    "underscores",
+    "WordPress"
+  ],
+  "author": "Waqas Lone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djlone/explore/issues"
+  },
+  "homepage": "https://github.com/djlone/explore#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
